@@ -1,4 +1,4 @@
-# gait-analysis-ioht-ml
+# gait-analysis-using-iot-ml
 🧠 Gait Analysis using IoHT and Machine Learning
 📌 Overview
 
